@@ -1,0 +1,3 @@
+"""
+MegaSena package initialization
+"""
